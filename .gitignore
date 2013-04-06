@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+/bin
+/target
+/README.md~
+.project
+.classpath
+.settings
